@@ -78,7 +78,7 @@ persistence:
   ##   GKE, AWS & OpenStack)
   ##
   # storageClass: "-"
-  storageClassName: gp2
+  storageClassName: longhorn
 
   ## Persistent Volume Access Mode.
   ##
