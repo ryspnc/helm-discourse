@@ -82,7 +82,7 @@ persistence:
 
   ## Persistent Volume Access Mode.
   ##
-  accessModes: ReadWriteOnce
+  accessModes: ReadWriteMany
 
   ## Persistent Volume Storage Size.
   ##
